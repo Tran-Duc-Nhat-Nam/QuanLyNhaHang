@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/gui/FormVatTu.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/pojo/DanhSach.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/pojo/HoaDon.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/pojo/Phong.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/dao/XuLyCSDL.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/dao/XuLyNhanVien.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/gui/FormTaiKhoan.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/gui/FormNhapKho.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/dao/XuLyTang.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/gui/FormHoSo.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/pojo/Ban.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/dao/XuLyCTHD_Ban.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/dao/XuLyChucVu.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/dao/XuLyMonAn.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/dao/XuLyPhong.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/pojo/NhanVien.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/pojo/Tang.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/pojo/ChiTietHoaDon_Phong.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/pojo/ChucVu.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/dao/XuLyNhapKho.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/dao/XuLyHoaDon.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/gui/FormDatTruoc.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/gui/FormChucVu.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/dao/XuLyBan.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/dao/XuLyCTHD_Phong.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/gui/FormGoiMon.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/gui/FormCheBien.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/program/Program.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/pojo/ChiTietHoaDon.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/pojo/DonDatTruoc.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/gui/FormPhongBan.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/gui/FormMonAn.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/dao/XuLyCTHD.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/gui/FormDangNhap.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/dao/XuLyThuong.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/gui/FormNhanVien.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/dao/XuLyTaiKhoan.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/dao/XuLyCheBien.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/dao/XuLyDatTruoc.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/gui/FormHoaDon.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/dao/XuLyVatTu.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/dao/XuLyLuong.java</file>
+            <file>file:/C:/Users/Nam/Documents/DoAnJava/Final/QLNhaHang/src/gui/ParentForm.java</file>
+        </group>
+    </open-files>
+</project-private>
